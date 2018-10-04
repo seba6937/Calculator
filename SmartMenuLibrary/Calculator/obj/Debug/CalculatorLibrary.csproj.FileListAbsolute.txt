@@ -1,0 +1,6 @@
+C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\bin\Debug\Calculator.dll
+C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\obj\Debug\Calculator.dll
+C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\obj\Debug\Calculator.pdb
