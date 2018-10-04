@@ -1,0 +1,6 @@
+﻿﻿<Smart menu gruppe 8>
+<(Skriv et tal der svarer til det menupunkt du vil indlæse og skriv 0 for at afslutte)>
+<Do That>;<1>
+<Do This>;<2>
+<Do Something>;<3>
+<Svaret På Livet>;<4>
