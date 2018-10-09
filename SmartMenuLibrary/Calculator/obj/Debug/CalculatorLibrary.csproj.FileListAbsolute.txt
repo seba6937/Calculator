@@ -4,3 +4,9 @@ C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\obj\Debug\CalculatorLibra
 C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\obj\Debug\Calculator.dll
 C:\Users\Emil\Source\Repos\SmartMenuLibrary\Calculator\obj\Debug\Calculator.pdb
+D:\datamatiker\Calculator\SmartMenuLibrary\Calculator\bin\Debug\Calculator.dll
+D:\datamatiker\Calculator\SmartMenuLibrary\Calculator\bin\Debug\Calculator.pdb
+D:\datamatiker\Calculator\SmartMenuLibrary\Calculator\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
+D:\datamatiker\Calculator\SmartMenuLibrary\Calculator\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\datamatiker\Calculator\SmartMenuLibrary\Calculator\obj\Debug\Calculator.dll
+D:\datamatiker\Calculator\SmartMenuLibrary\Calculator\obj\Debug\Calculator.pdb

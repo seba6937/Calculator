@@ -41,11 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bindings.cs" />
     <Compile Include="SmartMenu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="MenuSpec.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Calculator\CalculatorLibrary.csproj">
+      <Project>{2ea5a486-2bf8-41d8-94e5-9b63b077e3f6}</Project>
+      <Name>CalculatorLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

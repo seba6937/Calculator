@@ -45,7 +45,7 @@ namespace CalculatorLibrary
 
         public static double Minimum(double[] numbers)
         {
-            double res = numbers.Max();
+            double res = Maximum(numbers);
             for (int i = 0; i < numbers.Length; i++)
             {
                 if (numbers[i] < res)

@@ -4,3 +4,12 @@ C:\Users\Emil\Source\Repos\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenu
 C:\Users\Emil\Source\Repos\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.dll
 C:\Users\Emil\Source\Repos\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.pdb
 C:\Users\Emil\Source\Repos\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.csprojAssemblyReference.cache
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.dll
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.pdb
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.csprojAssemblyReference.cache
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.csproj.CoreCompileInputs.cache
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.dll
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.pdb
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\bin\Debug\Calculator.dll
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\bin\Debug\Calculator.pdb
+D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.csproj.CopyComplete

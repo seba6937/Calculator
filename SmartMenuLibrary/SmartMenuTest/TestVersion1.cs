@@ -11,7 +11,7 @@ namespace SmartMenuTest
         public void TestMethod1()
         {
             SmartMenu smart = new SmartMenu();
-            Assert.AreEqual(true, smart.LoadMenu(@"C:\Users\Sthor\Source\Repos\SmartMenuLibrary\SmartMenuLibrary\MenuSpec.txt"));
+            Assert.AreEqual(true, smart.LoadMenu(@"D:\datamatiker\Calculator\SmartMenuLibrary\SmartMenuLibrary\MenuSpec.txt"));
         }
     }
 }
